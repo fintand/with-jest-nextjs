@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21fb1737-147c-4eea-9c72-8b095f18db03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/TestComponent/TestComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TestComponent/TestComponent.spec.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useTestHook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/__snapshots__/snapshot.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/__snapshots__/snapshot.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/index.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/index.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/snapshot.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/snapshot.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gzgrd0ne" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27qEHNGaNJ8klkvmjjnVY6o5mXG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fintan/dev/tmp/with-jest-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/fintan/dev/tmp/with-jest-app/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/TestComponent" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21fb1737-147c-4eea-9c72-8b095f18db03" name="Changes" comment="" />
+      <created>1650039126485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650039126485</updated>
+      <workItem from="1650039127678" duration="90000" />
+      <workItem from="1650039222452" duration="360000" />
+      <workItem from="1650039589176" duration="2675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
